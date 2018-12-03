@@ -1,11 +1,13 @@
-1. Чтобы скачать проект запускаем команду:  
-   `git clone https://github.com/wannacrypt/spring5-helloworld.git`
+1. Чтобы скачать проект:
+    - запускаем команду `git clone https://github.com/wannacrypt/spring5-helloworld.git` в командной строке  
+    (убедитесь что приложение git установлена)   
+    - либо нажимаем на кнопку **clone or download**, затем **Download ZIP**.
    
 2. Заходим в папку:  
-    *spring5-helloworld*
+    *spring5-helloworld(-master)*
 
 3. Запускаем команду:  
-    `./mvnw spring-boot:run`
+    В Linux системах `./mvnw spring-boot:run`, либо `.\mvnw spring-boot:run` в Windows
 
 4. Ждём когда запуститься сервер. После запуска сервера заходим в браузере по адресу:  
     `http://localhost:8080`
