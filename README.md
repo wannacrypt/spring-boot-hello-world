@@ -1,6 +1,5 @@
 1. Чтобы скачать проект:
-    - запускаем команду `git clone https://github.com/wannacrypt/spring5-helloworld.git` в командной строке  
-    (убедитесь что приложение git установлена)   
+    - запускаем команду `git clone https://github.com/wannacrypt/spring5-helloworld.git` в командной строке (убедитесь что приложение git установлена)   
     - либо нажимаем на кнопку **clone or download**, затем **Download ZIP**.
    
 2. Заходим в папку:  
