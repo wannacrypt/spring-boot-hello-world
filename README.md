@@ -6,7 +6,7 @@
     *spring5-helloworld(-master)*
 
 3. Запускаем команду:  
-    В Linux системах `./mvnw spring-boot:run`, либо `.\mvnw spring-boot:run` в Windows
+    В Linux системах `./mvnw spring-boot:run`, либо `.\mvnw spring-boot:run` в Windows.
 
 4. Ждём когда запуститься сервер. После запуска сервера заходим в браузере по адресу:  
     `http://localhost:8080`
